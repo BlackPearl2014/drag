@@ -1,1 +1,5 @@
-console.log('drag');
+
+
+function drag(param) {  
+    console.log('drag');
+}
